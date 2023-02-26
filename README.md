@@ -7,7 +7,7 @@
 
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on **Netflix Recommendation Machine Learning Model.**
+- 🔭 I’m currently working on **Machien Learning Models**
 
 - 🌱 I’m currently learning **SQL, Power BI**
 
