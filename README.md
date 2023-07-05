@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A London based MSc Data Science and AI student, constantly seeking new challenges and opportunities to apply my knowledge and skills to real-world problems. Let's build something great together!</h3>
+<h3 align="center">A London-based MSc Data Science and AI student, constantly seeking new challenges and opportunities to apply my knowledge and skills to real-world problems. Let's build something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhshubham-git&label=Profile%20views&color=0e75b6&style=flat" alt="singhshubham-git" /> </p>
 
@@ -7,11 +7,11 @@
 
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on **Machien Learning Models**
+🔭: I'm currently working on **Machine Learning Models**
 
-- 🌱 I’m currently learning **SQL, Power BI**
+🌱: I'm currently learning **SQL, Power BI**
 
-- 📫 How to reach me **shubhbu0663@gmail.com**
+📫 How to reach me **shubhbu0663@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
