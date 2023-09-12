@@ -9,7 +9,7 @@
 
 🔭: I'm currently working on **Machine Learning Models**
 
-🌱: I'm currently learning **SQL, Power BI**
+🌱: I'm currently learning **SQL, Tableau, Power BI**
 
 📫 How to reach me **shubhamsinghdatasci@gmail.com**
 
